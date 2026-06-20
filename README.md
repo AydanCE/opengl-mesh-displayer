@@ -13,12 +13,12 @@ Built as practice work for a Computer Graphics tutorial.
 - Cycles through a small palette of material colors
 
 **Interaction**
-c-Smootly transitions(fades) between material colors, rather than snapping instantly
-r-Toggles automatic spinning of the model around the vertical axis
-Arrow keys-Moves the scene's point light source
-Left-click + drag-Orbits the camera around model
-Right-click + drag-Zooms the camera in/out
-Esc-Exits the application
+- **c**-Smootly transitions(fades) between material colors, rather than snapping instantly
+- **r**-Toggles automatic spinning of the model around the vertical axis
+- **Arrow keys**-Moves the scene's point light source
+- **Left-click** + drag-Orbits the camera around model
+- **Right-click** + drag-Zooms the camera in/out
+- **Esc**-Exits the application
 
 **Build & run**
 **Requirements**
