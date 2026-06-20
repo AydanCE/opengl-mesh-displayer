@@ -1,4 +1,5 @@
 **OpenGL Mesh Displayer**
+
 A C++ / OpenGL (GLUT) application that loads triangle meshes from OBJ files and renders them with real-time Phong lighting, an orbit camera and
 smooth color transitions.
 
